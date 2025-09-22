@@ -1,2 +1,3 @@
 # my-projects
-My first repository
+My first git repository
+author -anjana
